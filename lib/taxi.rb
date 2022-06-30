@@ -2,7 +2,7 @@
 
 class Taxi
   # Implements a taxi, driving in a US-style chessboard-city center
-   
+
   def initialize
     @heading = []
     @heading[0] = [0, 1]

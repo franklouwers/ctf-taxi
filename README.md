@@ -18,4 +18,4 @@ Also passes all Rubycop tests.
 
 ## Requirements
 
-Requires Ruby >= 2.6 (for the 1.. array slice) on line 28 in [taxi.rb](lib/taxi.rb#L28).
+Requires Ruby >= 2.6 (for the 1.. array slice on line 28 in [taxi.rb](lib/taxi.rb#L28)).
